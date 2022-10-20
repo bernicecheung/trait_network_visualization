@@ -1,0 +1,14 @@
+name: trait_network_visualization
+title: trait_network_visualization
+username:
+account: bernicecheung
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7372142
+bundleId: 6424853
+url: https://bernicecheung.shinyapps.io/trait_network_visualization/
+when: 1666301423.64646
+lastSyncTime: 1666301423.64647
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: network_visualization.nb.html|network_visualization.Rmd
